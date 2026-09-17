@@ -1,4 +1,3 @@
-# Terraform
 **/.terraform/*
 *.tfstate
 *.tfstate.*
@@ -14,11 +13,9 @@ override.tf.json
 terraform.rc
 .terraform.lock.hcl
 
-# Kubeconfig
 kubeconfig
 *.kubeconfig
 
-# OS / editor
 .DS_Store
 .idea/
 .vscode/
